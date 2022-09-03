@@ -2,8 +2,9 @@
   "name": "div-s-theme",
   "displayName": "Div's Theme",
   "description": "Perfect blend of orange with dark colors.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "dec82000",
+  "icon": "assets/Icon.png",
   "engines": {
     "vscode": "^1.71.0"
   },
