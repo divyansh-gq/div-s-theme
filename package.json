@@ -1,0 +1,24 @@
+{
+  "name": "div-s-theme",
+  "displayName": "Div's Theme",
+  "description": "Perfect blend of orange with dark colors.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Divyansh Jain"
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Div's Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Div's Theme-color-theme.json"
+      }
+    ]
+  }
+}
