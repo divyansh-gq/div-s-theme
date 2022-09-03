@@ -1,6 +1,6 @@
 # Div's Theme
 
-![Div's Theme](https://github.com/divyansh-gq/div-s-theme/blob/main/Screenshot.png?raw=true)
+![Div's Theme](assets/Screenshot.png)
 
 ## Install
 
